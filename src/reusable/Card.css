@@ -1,0 +1,21 @@
+.cardWrapper {
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    margin-bottom: 30px !important;
+    margin-top: 30px;
+    margin: 0 auto;
+}
+
+.cardWrapper:hover {
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.8);
+}
+
+.cardImage {
+    width: 200px;
+    height: 200px;
+}
+
+.cardText {
+    padding: 2px;
+}
